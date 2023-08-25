@@ -1,0 +1,21 @@
+.pclass {
+background-color:  rgb(253, 110, 179);
+font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.pclass.cooler {
+    font-size: 24px;
+    }
+    
+
+#id-one {
+    color:rgb(6, 18, 240);
+    font-size: 36px;
+
+}
+
+#id-two {
+background-color: rgb(175, 230, 91);
+font-size: 24px;
+font-weight: bold;
+}
